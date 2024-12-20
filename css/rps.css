@@ -7,6 +7,7 @@
 h1 {
 	height: 5rem;
 	line-height: 5rem;
+	justify-content: center;
 	color: #fff;
 	background-color: #081b31;
 }
@@ -32,6 +33,7 @@ h1 {
 img {
 	height: 130px;
 	width: 130px;
+	
 	border-radius: 50%;
 }
 
@@ -64,8 +66,7 @@ img {
 	border-radius: 1rem;
 	display: inline;
 	font-size: 1rem;
+	justify-content: center;
+	word-wrap: normal;
 }
-
-
-
 
